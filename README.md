@@ -20,7 +20,12 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Specs
 
-_*Words that begin with a vowel add "way" to the end.
+_
+*Application can tell if first letter is a vowel or consonant.
+Input Example: Apple
+Output Example
+
+*Words that begin with a vowel add "way" to the end.
 Input Example: Awesome
 Output Example: Awesomeway
 
